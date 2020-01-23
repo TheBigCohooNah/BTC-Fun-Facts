@@ -1,11 +1,13 @@
 1. The Genesis block took 6 days to mine
 2. The Genesis block has a message hidden in the hash
-  The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
+    The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
 3. Bitcoin has an uptime of over 99.99%
-  Was down for X and Y reason
+    Was down for X and Y reason
 4. There are fewer bitcoiners in the world than millionairs
 5. In 2014, the GHash.io (GigaHash) pool achieved 51% of total hashrate
 6. Bitcoin mining difficulty adjusts every 2016 blocks to keep blocks mined approximatly every 10 minutes
 7. Mining subsidty gets cut in half every 210,000 blocks (~4 years)
 8. It's estimated that over 1,000,000 Bitcoin are lost forever
-9. 
+9. Miner's can mine coinbase transactions less than the block subsidy
+    This was first done in XXXX by XXXX
+10. 
